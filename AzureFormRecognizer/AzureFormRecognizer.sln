@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFormRecognizer", "AzureFormRecognizer\AzureFormRecognizer.csproj", "{9ACCA4E6-4C4B-498D-8A4C-48FEDF868A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACCA4E6-4C4B-498D-8A4C-48FEDF868A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACCA4E6-4C4B-498D-8A4C-48FEDF868A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACCA4E6-4C4B-498D-8A4C-48FEDF868A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACCA4E6-4C4B-498D-8A4C-48FEDF868A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A17E94F3-DFE1-40DB-BDEE-9ACBE335AE6C}
+	EndGlobalSection
+EndGlobal
